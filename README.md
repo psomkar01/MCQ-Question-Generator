@@ -14,6 +14,20 @@ Users can download the generated MCQs as a text file or a PDF for easy access an
 
 ---
 
+## AI POWERED MCQ GENERATOR
+
+![image alt](https://github.com/psomkar01/MCQ-Question-Generator/blob/f59640c4290960d07b2f3280b49fa6f8201690f3/mcq%201.png)
+
+![image alt](https://github.com/psomkar01/MCQ-Question-Generator/blob/f59640c4290960d07b2f3280b49fa6f8201690f3/mcq%202.png)
+
+![image alt](https://github.com/psomkar01/MCQ-Question-Generator/blob/f59640c4290960d07b2f3280b49fa6f8201690f3/mcq%203.png)
+
+
+![image alt](https://github.com/psomkar01/MCQ-Question-Generator/blob/f59640c4290960d07b2f3280b49fa6f8201690f3/mcq%204.png)
+
+
+---
+
 ## 🛠 **Tools Used**
 1. **Framework**: Flask
 2. **Text Extraction**:
