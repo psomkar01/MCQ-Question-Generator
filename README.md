@@ -53,14 +53,15 @@ Users can download the generated MCQs as a text file or a PDF for easy access an
 
 ## Folder Structure
 MCQ Question Builder/
-├── app.py                 # Main Flask application
-├── templates/             # HTML files
-│   ├── index.html
-│   ├── results.html
-├── uploads/               # Folder for uploaded files
-├── results/               # Folder for generated files (TXT, PDF)
-├── venv/                  # Virtual environment (optional)
-├── requirements.txt       # Python dependencies
+1. MCQ Question Builder/  
+    2. app.py                 # Main Flask application  
+    3. templates/             # Folder containing HTML templates  
+        4. index.html         # Home page for uploading files  
+        5. results.html       # Page to display generated MCQs  
+    6. uploads/               # Folder for storing uploaded files  
+    7. results/               # Folder for storing generated TXT and PDF files  
+    8. venv/                  # Virtual environment folder (optional)  
+    9. requirements.txt       # File listing project dependencies  
 
 
 
