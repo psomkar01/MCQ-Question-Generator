@@ -1,6 +1,6 @@
 # MCQ-Question-Generator
 
-# MCQ Question Builder
+# MCQ Question Generator
 
 ## 📖 **Project Overview**
 MCQ Question Builder is a Flask-based web application designed to generate Multiple Choice Questions (MCQs) from uploaded text files. 
