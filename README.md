@@ -51,7 +51,7 @@ Users can download the generated MCQs as a text file or a PDF for easy access an
 
 ---
 
-Folder Structure
+## Folder Structure
 MCQ Question Builder/
 ├── app.py                 # Main Flask application
 ├── templates/             # HTML files
