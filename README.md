@@ -1,7 +1,7 @@
-# MCQ-Question-Generator
+# AI-POWERED MCQ GENERATOR
 
 ## 📖 **Project Overview**
-MCQ Question Builder is a Flask-based web application designed to generate Multiple Choice Questions (MCQs) from uploaded text files. 
+AI-POWERED MCQ GENERATOR is a Flask-based web application designed to generate Multiple Choice Questions (MCQs) from uploaded text files. 
 It simplifies the process of creating quizzes by automatically extracting text from documents (PDF, DOCX, or TXT) and generating MCQs with options and answers.
 Users can download the generated MCQs as a text file or a PDF for easy access and sharing.
 
@@ -64,8 +64,8 @@ Users can download the generated MCQs as a text file or a PDF for easy access an
 ---
 
 ## Folder Structure
-MCQ Question Builder/
-1. MCQ Question Builder/  
+AI-POWERED MCQ GENERATOR/
+1. AI-POWERED MCQ GENERATOR/  
     2. app.py                 # Main Flask application  
     3. templates/             # Folder containing HTML templates  
         4. index.html         # Home page for uploading files  
